@@ -33,5 +33,8 @@ var cx = require("./lib/cx");
 module.exports = {
   classSet: cx,
   LinkedStateMixin: LinkedStateMixin,
-  TransitionGroup: ReactTransitionGroup
+  TransitionGroup: ReactTransitionGroup,
+  // Somebody will type this in as `ReactTransitionGroup` instead, 
+  // best to support it.
+  ReactTransitionGroup: ReactTransitionGroup
 };
