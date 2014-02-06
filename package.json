@@ -1,0 +1,30 @@
+{
+  "name": "react-addons",
+  "version": "0.8.0",
+  "description": "Simple packaging of react addons to avoid fiddly 'react/addons' npm module.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/STRML/react-addons.git"
+  },
+  "keywords": [
+    "react",
+    "react-addons",
+    "npm",
+    "browserify"
+  ],
+  "author": "Samuel Reed <sam@tixelated.com> (http://strml.net/)",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/STRML/react-addons/issues"
+  },
+  "homepage": "https://github.com/STRML/react-addons",
+  "peerDependencies": {
+    "react": ">= 0.8.0"
+  }
+}
