@@ -1,3 +1,10 @@
+### This package is deprecated
+
+The bug causing multiple (identical) versions of react is no longer present in React 0.10 with 
+Browserify >= 4. 
+
+Rather than use this package, simply use `require('react/addons')` in modules that require addons.
+
 # react-addons
 
 This is an npm package containing *only* the react addons, and not the full react build
