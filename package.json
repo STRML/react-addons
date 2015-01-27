@@ -1,6 +1,6 @@
 {
   "name": "react-addons",
-  "version": "0.9.0",
+  "version": "0.9.1-deprecated",
   "description": "Simple packaging of react addons to avoid fiddly 'react/addons' npm module.",
   "main": "index.js",
   "repository": {
